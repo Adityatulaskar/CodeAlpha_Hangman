@@ -54,28 +54,39 @@ git clone https://github.com/your-username/CodeAlpha_Hangman.git
 cd CodeAlpha_Hangman
 3. Run the Program
 python hangman.py
+
+
 🎮 Gameplay
+
 Select a difficulty level.
 Guess letters one by one.
 Avoid incorrect guesses to keep the hangman from being completed.
 Use hints and categories strategically.
 Guess the word before running out of attempts.
+
+
 📖 Difficulty Levels
+
 Easy
 Category displayed
 Hint displayed
 First letter revealed
 9 wrong guesses allowed
+
 Medium
 Category displayed
 First letter revealed
 6 wrong guesses allowed
+
 Hard
 No hints
 No category
 6 wrong guesses allowed
 🧠 Concepts Demonstrated
+
+
 Functions
+
 Loops
 Conditional Statements
 Lists and Dictionaries
@@ -83,6 +94,8 @@ String Manipulation
 User Input Handling
 Random Word Selection
 Game Logic Implementation
+
+
 📸 Sample Output
 
 Welcome to HANGMAN!

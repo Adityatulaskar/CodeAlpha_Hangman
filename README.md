@@ -38,7 +38,9 @@ A fun and interactive command-line Hangman game built using Python. This project
 
 Hangman/
 │
+
 ├── hangman.py
+
 └── README.md
 
 
